@@ -26,9 +26,9 @@
 </p> -->
 
 <p align="center">
-  <a href="#key-features">Abstract</a> •
+  <a href="#Abstract">Abstract</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Project Features</a> •
+  <a href="#Project Features">Project Features</a> •
   <a href="#license">License</a>
 </p>
 
@@ -71,6 +71,6 @@ We Developed a web application using our skills and knoweldge that we gained fro
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+
+> GitHub [@itsalghala](https://github.com/itsalghala) &nbsp;&middot;&nbsp;
+> Twitter [@itsalghala](https://twitter.com/itsalghala)
