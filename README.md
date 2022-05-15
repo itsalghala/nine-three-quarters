@@ -2,6 +2,7 @@
 
 <h1 align="center">
    <img src="logo-github.png" alt="platform" width="200"></a>
+   <br>
    9<sup>3⁄4</sup> Platform &copy;
   <br>
 </h1>
