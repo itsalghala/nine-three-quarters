@@ -2,7 +2,8 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  ![git-logo](https://user-images.githubusercontent.com/48840681/168483332-e11fa8dd-dd11-4f72-99fe-f91751d0698b.png)
+  <a" alt="nine-Platform" width="200"></a>
   <br>
    9<sup>3⁄4</sup> Platform &copy;
   <br>
