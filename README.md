@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-![GitHub Logo](git-logo.png)
+![GitHub Logo](/git-logo.png)
   <br>
    9<sup>3⁄4</sup> Platform &copy;
   <br>
