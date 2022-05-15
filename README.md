@@ -1,9 +1,10 @@
 # nine-three-quarters
 
-<h1 align="center">
-  <br>
 ![GitHub Logo](/git-logo.png)
-  <br>
+<h1 align="center">
+ 
+
+  
    9<sup>3⁄4</sup> Platform &copy;
   <br>
 </h1>
