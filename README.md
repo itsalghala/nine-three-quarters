@@ -2,8 +2,7 @@
 
 <h1 align="center">
   <br>
-  ![git-logo](https://user-images.githubusercontent.com/48840681/168483332-e11fa8dd-dd11-4f72-99fe-f91751d0698b.png)
-  <a" alt="nine-Platform" width="200"></a>
+ ![git-logo](https://user-images.githubusercontent.com/48840681/168483592-cb7acefa-19d5-4442-9f1b-843b5af9aee9.png)
   <br>
    9<sup>3⁄4</sup> Platform &copy;
   <br>
@@ -12,17 +11,6 @@
 <h4 align="center"> Web Technology and Security Project.</h4>
 
 <!-- <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
 </p> -->
 
 <p align="center">
