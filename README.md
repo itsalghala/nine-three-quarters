@@ -1,6 +1,6 @@
 # nine-three-quarters
 
-![GitHub Logo](/git-logo.png)
+![GitHub Logo](/logo-github.png)
 <h1 align="center">
  
 
