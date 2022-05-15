@@ -28,7 +28,7 @@
 <p align="center">
   <a href="#Abstract">Abstract</a> •
   <a href="#credits">Credits</a> •
-  <a href="#Project Features">Project Features</a> •
+  <a href="#Features">Project Features</a> •
   <a href="#license">License</a>
 </p>
 
@@ -53,7 +53,7 @@ We Developed a web application using our skills and knoweldge that we gained fro
   - Lama Alhubaidi
   - Leena Marghalani
 
-## Project Features
+## Features
 * The technologies used to complete this project were:
   - **HTML5** - front-end layout.
   - **CSS3** - front-end styling.
