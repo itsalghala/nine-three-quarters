@@ -1,10 +1,7 @@
 # nine-three-quarters
 
-![GitHub Logo](/logo-github.png)
 <h1 align="center">
- 
-
-  
+   <img src="logo-github.png" alt="platform" width="200"></a>
    9<sup>3⁄4</sup> Platform &copy;
   <br>
 </h1>
@@ -21,7 +18,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/)
 
 ## Abstract
 
