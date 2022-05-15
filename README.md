@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
- ![git-logo](https://user-images.githubusercontent.com/48840681/168483592-cb7acefa-19d5-4442-9f1b-843b5af9aee9.png)
+![GitHub Logo](/images/github-logo.png)
   <br>
    9<sup>3⁄4</sup> Platform &copy;
   <br>
