@@ -19,8 +19,11 @@
 </p>
 
 <center>
-   ![Video](https://user-images.githubusercontent.com/48840681/178826366-397a77ec-94a3-4052-862c-c72bbf12dce5.gif) 
+  <video controls>
+     <source src="![Video](https://user-images.githubusercontent.com/48840681/178826366-397a77ec-94a3-4052-862c-c72bbf12dce5.gif) " type="video/webm" />
+  </video>
 </center>
+
 
 ## Abstract
 
