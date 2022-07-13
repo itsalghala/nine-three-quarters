@@ -17,7 +17,7 @@
   <a href="#Abstract">Abstract</a> •
   <a href="#credits">Credits</a> •
   <a href="#Features">Project Features</a> •
-  <a href="#download">Download</a>
+  <a href="#download">Download</a> •
   <a href="#license">License</a>
 </p>
 
