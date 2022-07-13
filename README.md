@@ -45,14 +45,7 @@ We Developed a web application using our skills and knoweldge that we gained fro
 
 ## Features
 * The technologies used to complete this project were:  
-  - **HTML5** - front-end layout.
-  - **CSS3** - front-end styling.
-  - **JavaScript** - front-end and back-end implementation.
-  - **MySQL** - database.
-  - **PHP**.
-   
-   
-  <div>
+     <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java Script" alt="Java Script" width="40" height="40"/>&nbsp;
@@ -61,6 +54,11 @@ We Developed a web application using our skills and knoweldge that we gained fro
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache " width="40" height="40"/>&nbsp;
  
 </div>
+  - **HTML5** - front-end layout.
+  - **CSS3** - front-end styling.
+  - **JavaScript** - front-end and back-end implementation.
+  - **MySQL** - database.
+  - **PHP**.
    
 * Apache2 Server Ubuntu 20.4
 
