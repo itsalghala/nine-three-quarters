@@ -1,5 +1,5 @@
 # nine-three-quarters
-![Video](https://user-images.githubusercontent.com/48840681/178826366-397a77ec-94a3-4052-862c-c72bbf12dce5.gif)
+
 <h1 align="center">
    <img src="logo-github.png" alt="platform" width="200"></a>
    <br>
@@ -9,7 +9,9 @@
 
 <h4 align="center"> Web Technology and Security Project.</h4>
 
-
+<p align="center">
+  <img src="[demo.gif](https://user-images.githubusercontent.com/48840681/178826366-397a77ec-94a3-4052-862c-c72bbf12dce5.gif)" alt="animated" />
+</p>
 
 <p align="center">
   <a href="#Abstract">Abstract</a> •
