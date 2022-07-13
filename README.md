@@ -61,9 +61,7 @@ We Developed a web application using our skills and knoweldge that we gained fro
   - **JavaScript** - front-end and back-end implementation.
   - **MySQL** - database.
   - **PHP**.
-   
 * Apache2 Server Ubuntu 20.4
-
 * ModSecurity Firwall.
 
 ## Download
