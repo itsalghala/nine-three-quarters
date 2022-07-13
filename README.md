@@ -73,7 +73,7 @@ We Developed a web application using our skills and knoweldge that we gained fro
  5. Search http://localhost in any browser. You're done.
  6. Don't forget to enjoy it :) 
   
- ##### For full report and references conatct me it is [Available Upon Request].
+ ##### [Available Upon Request] Full report and references.
 
 ## License
    <p align="center">
