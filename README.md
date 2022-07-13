@@ -9,9 +9,9 @@
 
 <h4 align="center"> Web Technology and Security Project.</h4>
 
-<section align="center"> 
+<br clear="center"/>
 ![Video](https://user-images.githubusercontent.com/48840681/178826366-397a77ec-94a3-4052-862c-c72bbf12dce5.gif)
-</section>
+<br clear="center"/>
 
 <p align="center">
   <a href="#Abstract">Abstract</a> •
