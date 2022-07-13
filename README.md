@@ -61,8 +61,8 @@ We Developed a web application using our skills and knoweldge that we gained fro
   - **JavaScript** - front-end and back-end implementation.
   - **MySQL** - database.
   - **PHP**.
-* Apache2 Server Ubuntu 20.4
-* ModSecurity Firwall.
+  - **Apache2 Server Ubuntu 20.4**.
+  - **ModSecurity Firwall**.
 
 ## Download
  ##### Steps:
@@ -84,3 +84,6 @@ We Developed a web application using our skills and knoweldge that we gained fro
 
 > GitHub [@itsalghala](https://github.com/itsalghala) &nbsp;&middot;&nbsp;
 > Twitter [@itsalghala](https://twitter.com/itsalghala)
+> LinkdIn [@itsalghala](https://www.linkedin.com/in/itsalghala)
+
+   
