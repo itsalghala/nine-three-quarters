@@ -49,10 +49,11 @@ We Developed a web application using our skills and knoweldge that we gained fro
   - **CSS3** - front-end styling.
   - **JavaScript** - front-end and back-end implementation.
   - **MySQL** - database.
+  - **PHP**.
 
 * Apache2 Server Ubuntu 20.4
 
-* ModSecurity Firwall
+* ModSecurity Firwall.
 
 ## Download
  ##### Steps:
@@ -63,13 +64,13 @@ We Developed a web application using our skills and knoweldge that we gained fro
  5. Search http://localhost in any browser. You're done.
  6. Don't forget to enjoy it :) 
   
- ##### For more clarification a PDF document is also provided <a href="">Here</a>.
+ ##### For more clarification a PDF document is also provided <a href="">here</a>.
 
 ## License
    <p align="center">
    Imam Abdulrahman Bin Faisal University &copy; 2022.
    </p>
----
+
 
 
 > GitHub [@itsalghala](https://github.com/itsalghala) &nbsp;&middot;&nbsp;
