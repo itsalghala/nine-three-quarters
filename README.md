@@ -45,11 +45,15 @@ We Developed a web application using our skills and knoweldge that we gained fro
 
 ## Features
 * The technologies used to complete this project were:
+   * [![HTML5][html.js]][html-url]
+   * [![React][React.js]][React-url]
+   
   - **HTML5** - front-end layout.
   - **CSS3** - front-end styling.
   - **JavaScript** - front-end and back-end implementation.
   - **MySQL** - database.
   - **PHP**.
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)
 
 * Apache2 Server Ubuntu 20.4
 
