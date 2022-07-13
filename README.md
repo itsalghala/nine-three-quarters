@@ -66,14 +66,14 @@ We Developed a web application using our skills and knoweldge that we gained fro
 
 ## Download
  ##### Steps:
- 1. Download the provided zip file.
+ 1. Download the provided <a href="https://github.com/itsalghala/nine-three-quarters/blob/main/WebApplication.zip">zip</a> file.
  2. Use your hosting environment For instance (MAMP-WAMP-XAMPP) serves.
  3. Upload the file in the (navigating the path Server).
  4. Configuring MySQL and upload the Database provided in the zip file.
  5. Search http://localhost in any browser. You're done.
  6. Don't forget to enjoy it :) 
   
- ##### For more clarification a PDF document is also provided <a href="">here</a>.
+ ##### For full report and references conatct me it is [Available Upon Request].
 
 ## License
    <p align="center">
