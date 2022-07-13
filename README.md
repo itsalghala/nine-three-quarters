@@ -44,17 +44,24 @@ We Developed a web application using our skills and knoweldge that we gained fro
   - Leena Marghalani
 
 ## Features
-* The technologies used to complete this project were:
-   * [![HTML5][html.js]][html-url]
-   * [![React][React.js]][React-url]
-   
+* The technologies used to complete this project were:  
   - **HTML5** - front-end layout.
   - **CSS3** - front-end styling.
   - **JavaScript** - front-end and back-end implementation.
   - **MySQL** - database.
   - **PHP**.
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)
-
+   
+   
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java Script" alt="Java Script" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache " width="40" height="40"/>&nbsp;
+ 
+</div>
+   
 * Apache2 Server Ubuntu 20.4
 
 * ModSecurity Firwall.
