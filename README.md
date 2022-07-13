@@ -1,4 +1,4 @@
-# nine-three-quarters
+# Nine-Three-Quarters
 
 <h1 align="center">
    <img src="logo-github.png" alt="platform" width="200"></a>
